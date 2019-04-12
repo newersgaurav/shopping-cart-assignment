@@ -1,0 +1,12 @@
+.product-list{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.product-list-heading{
+    padding: 35px;
+    font-size: 36px;
+    color: #2c3e50;
+}
